@@ -1,51 +1,51 @@
-import Dosa from "../images/dosa.jpg";
-import Chola from "../images/chhola.jpg";
-import Idli from "../images/idli.jpg";
-import MasalaDosa from "../images/masala.jpg";
-import Paneer from "../images/paneer.jpg";
-import Gujrati from "../images/gujrati.jpeg";
+import Kola from "../images/kola.jpg";
+import Shade from "../images/shade.jpg";
+import Idunnu from "../images/idunnu.jpg";
+import Labake from "../images/labake.jpg";
+import Chuks from "../images/chuks.jpg";
+import Ifiok from "../images/ifiok.jpeg";
 
 export const MenuList = [
   {
-    name: "Dosa",
+    name: "Kola",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Dosa,
+    image: Kola,
     price: 200,
   },
   {
-    name: "Chola",
+    name: "Shade",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Chola,
+    image: Shade,
     price: 250,
   },
   {
-    name: "Idli Sambhar",
+    name: "Idunnu Aduke",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Idli,
+    image: Idunnu,
     price: 300,
   },
   {
-    name: "Masala Dosa",
+    name: "Labake Seun",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: MasalaDosa,
+    image: Labake,
     price: 100,
   },
   {
-    name: "Paneer",
+    name: "Chuks",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Paneer,
+    image: Chuks,
     price: 400,
   },
   {
-    name: "Gujrati",
+    name: "Ifiok",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Gujrati,
+    image: Ifiok,
     price: 500,
   },
 ];
